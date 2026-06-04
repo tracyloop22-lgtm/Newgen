@@ -8,7 +8,7 @@
   let isContainerVisible = true;
  
 // Put your backend url here
-  let backendUrl = 'thebknd.onrender.com';
+  let backendUrl = 'https://thebknd.onrender.com';
 
   let ipAddress = '';
   let location = {
